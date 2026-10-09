@@ -12,11 +12,11 @@ Applies to GitHub Discussions, issues and pull request comments in every Compete
 
 ## Not allowed
 
-- Harassment, discrimination, or anything else the [Code of Conduct](CODE_OF_CONDUCT.md) prohibits.
-- Advertising, spam, and posts unrelated to the project.
+- Violating the [Code of Conduct](CODE_OF_CONDUCT.md).
+- Advertising without permission from codeowners, spamming content, and posts about anything unrelated to the project.
 - Security reports in public.
-- Proof claims without a source.
-- Bulk or automated posting without the maintainers' agreement.
+- Claiming a proof without a source.
+- Violating any rules specific to a posting medium (e.g. rules specific to creating GitHub Issues).
 
 ## Moderation
 
