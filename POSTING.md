@@ -12,7 +12,7 @@ Applies to GitHub Discussions, issues and pull request comments in every Compete
 
 ## Not allowed
 
-- Violating the [Code of Conduct](CODE_OF_CONDUCT.md).
+- Violating the [Code of Ethics](CODE_OF_ETHICS.md).
 - Advertising without permission from codeowners, spamming content, and posts about anything unrelated to the project.
 - Security reports in public.
 - Claiming a proof without a source.
@@ -20,4 +20,4 @@ Applies to GitHub Discussions, issues and pull request comments in every Compete
 
 ## Moderation
 
-Maintainers may edit, move, lock or delete posts, and block accounts, as the Code of Conduct describes.
+Maintainers may edit, move, lock or delete posts, and block accounts that go against the Code of Ethics or these guidelines.

@@ -1,4 +1,4 @@
-# Our purpose
+# Code of Ethics
 
 ## Purpose
 
