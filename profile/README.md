@@ -1,7 +1,7 @@
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/competemath/.github/main/profile/competemath-logo-white.webp">
-    <img alt="CompeteMath" src="https://raw.githubusercontent.com/competemath/.github/main/profile/competemath-logo-dark.webp" width="640">
+    <img alt="CompeteMath" src="https://raw.githubusercontent.com/competemath/.github/main/profile/competemath-logo-dark.webp" width="320">
   </picture>
 </p>
 
