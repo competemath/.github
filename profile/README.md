@@ -1,4 +1,6 @@
-# CompeteMath
+<p align="center">
+  <img src="https://raw.githubusercontent.com/competemath/.github/main/profile/competemath-logo.gif" alt="CompeteMath" width="600">
+</p>
 
 The knowledge, security and reliability layer for agentic formal theorem provers.
 
