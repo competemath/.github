@@ -12,7 +12,7 @@ This is the official GitHub CompeteMath organisation - a mirror of the research 
 We are an independent organisation with almost no operational costs and no corporate or commercial pressure. 
 This means we have a relatively rare and often overlooked luxury; We can pursue ideas deeply, explore difficult 
 questions, and build infrastructure whose value might take years to materialise, without having to justify the value 
-immediately. Currently, our work is targeting systems that improve the correctness, reliability, and proving performance 
+immediately. Currently, our work is targeting systems that improve the correctness, reliability, and proving capacity 
 of automated theorem provers, regardless of which driving LLM/Agent is used, now or in the future.
 
 ## ⚡ Our Core Philosophy
