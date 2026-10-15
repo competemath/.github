@@ -1,17 +1,7 @@
 # Code of Conduct
 
-Everyone is welcome here. Whoever you are, wherever you are from, whatever you believe, and whatever you have done before: if you accept what
-is written here and want to do good work with us, you are valued in this organisation.
-
-## Who is not welcome
-
-Only these:
-
-- people who have been banned from our spaces for earlier violations;
-- people who do not accept this Code of Conduct or our [contributing](https://competemath.com/contribute) and [posting](POSTING.md) guidelines;
-- people who plan to break any policy of the CompeteMath ecosystem.
-
-Nobody is turned away for anything else.
+Whatever you look like, wherever you are from, whatever you believe, and whatever you have done in the past: if you accept what
+is written here and want to do well-intentioned work with us, we would be honoured for you to be part of our organisation.
 
 ## What we ask
 
@@ -27,6 +17,17 @@ We judge what is done here, by its content and its intent, never by who someone 
 ## Where this applies
 
 Every CompeteMath repository, discussion, issue and pull request, and any other space where someone acts in the organisation's name.
+
+
+## Exceptions to the welcome
+
+Please do not interact with the organisation if:
+
+- You have been banned from our spaces for earlier violations, and a request to return has been denied by an owner;
+- You willingly do not accept this Code of Conduct or our [contributing](https://competemath.com/contribute) and [posting](POSTING.md) guidelines, for no valid reason communicated with a maintainer;
+- You plan to break any of the policies in the individual projects of the CompeteMath ecosystem.
+
+Nobody is turned away for anything else.
 
 ## Enforcement
 
