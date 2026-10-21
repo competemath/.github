@@ -34,6 +34,10 @@ harnesses/pipelines.
 - **[competemath.com](https://competemath.com)**: Our competitive problem-solving platform, featuring AI-generated problems with
 formal Lean 4 proofs, separated from community-made problems.
 
+## 📚 Useful Links
+
+[Youtube Channel](https://www.youtube.com/@competemath) | [Code of Conduct](https://github.com/competemath/.github/blob/main/CODE_OF_CONDUCT.md) | [About CompeteMath](https://www.competemath.com/about) | [Posting Guidelines](https://github.com/competemath/.github/blob/main/POSTING.md)
+
 ## 🤝 Join us
 
 - There are many ways to [contribute](https://competemath.com/contribute) - no contribution is small, if you have the right intention.
